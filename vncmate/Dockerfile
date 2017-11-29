@@ -10,9 +10,8 @@ RUN apt-get update && \
     tightvncserver mate-core mate-desktop-environment \
     mate-notification-daemon supervisor net-tools curl git pwgen \
     mate-applet-topmenu mate-dock-applet chromium-browser \
-    mate-gnome-main-menu-applet mate-indicator-applet \
     mate-indicator-applet-common mate-menu mate-netbook \
-    mate-netbook-common  mate-netspeed mate-netspeed-common \
+    mate-netbook-common mate-indicator-applet \
     mate-optimus mate-sensors-applet \
     mate-sensors-applet-common mate-tweak media-player-info \
     memtest86+  mesa-utils metacity-common \
