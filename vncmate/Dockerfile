@@ -9,7 +9,7 @@ RUN apt-get update && \
     DEBIAN_FRONTEND=noninteractive apt-get install -y \
     tightvncserver mate-core mate-desktop-environment \
     mate-notification-daemon supervisor net-tools curl git pwgen \
-    mate-applet-topmenu mate-dock-applet chromium-browser \
+    mate-dock-applet chromium-browser \
     mate-indicator-applet-common mate-menu mate-netbook \
     mate-netbook-common mate-indicator-applet \
     mate-optimus mate-sensors-applet \
